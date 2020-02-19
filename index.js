@@ -8,7 +8,7 @@ function theBeatlesPlay(a,b)
   }
   return c;
 }
-function johnLennonFacts(a);
+function johnLennonFacts(a)
 {
   var i=0;
   while(i<a.length){
