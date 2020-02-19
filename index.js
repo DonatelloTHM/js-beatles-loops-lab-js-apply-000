@@ -27,6 +27,5 @@ do{
 else {
 b[a]="I love the Beatles!";
 }
-}
 return b;
 }
