@@ -19,10 +19,14 @@ function johnLennonFacts(a)
 }
 function iLoveTheBeatles(a){
 var b=[];
+if(a<15){
 do{
   b[a]="I love the Beatles!";
-  a++
-  return b[a];
-}while(a<15);
-
+  a++;
+}while(a<15);}
+else {
+b[a]="I love the Beatles!";
+}
+}
+return b;
 }
