@@ -20,14 +20,10 @@ function johnLennonFacts(a)
 function iLoveTheBeatles(a){
 var b=[];
 var i=0
-if(a<15){
 do{
   b[i]="I love the Beatles!";
   a++;
   i++;
-}while(a<15);}
-else {
-b[0]="I love the Beatles!";
-}
+}while(a<15);
 return b;
 }
