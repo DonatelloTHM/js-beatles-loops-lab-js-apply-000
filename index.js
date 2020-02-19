@@ -22,7 +22,7 @@ var b=[];
 do{
   b[a]="I love the Beatles!";
   a++
-  return b;
+  return b[a];
 }while(a<15);
 
 }
