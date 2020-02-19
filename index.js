@@ -24,7 +24,7 @@ if(a<15){
 do{
   b[i]="I love the Beatles!";
   a++;
-  i++
+  i++;
 }while(a<15);}
 else {
 b[0]="I love the Beatles!";
